@@ -1,6 +1,6 @@
 # kebapFitness Mobile
 
-newsApp Mobile is built using TypeScript and React/React Native.
+newsApp Mobile is built using TypeScript , React/React Native and React Navigation-Stack-Screens.
 It uses Metro, the JavaScript bundler for React Native to join the code and all its dependencies together.
 
 
